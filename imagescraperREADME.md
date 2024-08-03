@@ -22,8 +22,8 @@ This script uses the `GoogleImagesSearch` library to scrape images of various ha
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/hair-type-image-scraper.git
-   cd hair-type-image-scraper
+   git clone https://github.com/yourusername/HairTypeClassifier.git
+   cd HairTypeClassifier
    ```
 
 2. **Install Dependencies:**

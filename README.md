@@ -32,7 +32,14 @@ install all the stuff you need:
 pip install numpy opencv-python scikit-learn tensorflow kaggle 
 ```
 
-## Downloading the Dataset
+## Dataset
+
+### OPTION 1: Making your own dataset:
+This option uses web scraping to generate a dataset of images from hair-types 1a-4c. Naturally, you will need to edit the train_model.py and predict_hair_type.py to support 1a-4c instead of curly, wavy and straight. *Instructions on editing the two Python files will be added to a future commit.*
+
+Find documentation for making your own dataset [here](Image-Scraper-Instructions.md).
+
+### OPTION 2: Using an existing dataset:
 Before you can train the model, you need to download the dataset. We've provided a script to do this automatically
 
 ### Steps

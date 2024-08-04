@@ -149,15 +149,3 @@ The script includes a retry mechanism that attempts to handle `HttpError` except
 ## Ethical Considerations
 
 Please use this script responsibly. Ensure that you comply with Google's usage policies and respect copyright laws when collecting and using images.
-
-## Contributing
-
-Contributions are welcome! If you have any improvements or suggestions, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-Special thanks to the contributors and the open-source community for providing the tools and resources used in this project.

@@ -39,8 +39,8 @@ This option uses web scraping to generate a dataset of images from hair-types 1a
 
 Find documentation for making your own dataset [here](Image-Scraper-Instructions.md).
 
-### OPTION 2: Using an existing dataset:
-Before you can train the model, you need to download the dataset. We've provided a script to do this automatically
+### OPTION 2: Using an existing dataset from Kaggle:
+To use this option before you can train the model, you need to download the dataset from Kaggle. We've provided a script to do this automatically
 
 ### Steps
 1. Set Up Kaggle API: Make sure you have your Kaggle API key. You can get it from your Kaggle account settings.
